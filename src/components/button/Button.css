@@ -1,0 +1,39 @@
+.download-btn {
+    padding: var(--space-200) var(--space-500);
+    border-radius: 1.875rem;
+    border: none;
+    color: var(--white);
+    font: var(--text-preset-five);
+}
+
+.download-btn a {
+    color: var(--white);
+    text-decoration: none;
+    font: var(--text-preset-five);
+}
+
+.purple-button {
+    background: var(--dark-purple);
+}
+
+.purple-button span {
+    color: var(--light-purple);
+}
+
+.purple-button:hover,
+.purple-button:active {
+    background: #B18BDD;
+}
+
+.cyan-button {
+    background: var(--dark-cyan);
+}
+
+.cyan-button span {
+    color: var(--light-cyan);
+}
+
+.cyan-button:hover,
+.cyna-button:active {
+    background: #71C0D4;
+}

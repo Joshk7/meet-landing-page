@@ -1,0 +1,29 @@
+.number-container {
+    display: flex;
+}
+
+.number-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.vertical-line {
+    height: 80px;
+    width: 1px;
+    background: var(--light-gray);
+}
+
+.circle {
+    display: block;
+    height: 56px;
+    width: 56px;
+    border: 1px solid var(--light-gray);
+    border-radius: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font: var(--text-preset-five);
+    color: var(--gray);
+}
+
