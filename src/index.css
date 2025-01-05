@@ -38,7 +38,7 @@ h3,
 h4,
 h5,
 h6 {
-    overflow-wrap: break-word;
+    /* overflow-wrap: break-word; */
 }
 
 p {
@@ -50,7 +50,7 @@ h3,
 h4,
 h5,
 h6 {
-    text-wrap: balance;
+    /* text-wrap: balance; */
 }
 
 #root,
@@ -68,9 +68,9 @@ h6 {
     --dark-gray: #28283d;
     --white: #fafafa;
     --text-preset-one: 900 4rem/1.1 "Red Hat Display";
-    --text-preset-two: 900 2.5rem/1.1 "Red Hat Display";
-    --text-preset-three: 900 1rem/1.1 "Red Hat Display";
-    --text-preset-four: 500 1.125rem/1.1 "Red Hat Display";
+    --text-preset-two: 900 2rem/1.1 "Red Hat Display";
+    --text-preset-three: 900 0.75rem/1.1 "Red Hat Display";
+    --text-preset-four: 500 1rem/1.5 "Red Hat Display";
     --text-preset-five: 900 1rem/1.5 "Red Hat Display";
     --space-50: 0.25rem;
     --space-100: 0.5rem;
