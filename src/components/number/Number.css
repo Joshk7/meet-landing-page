@@ -1,8 +1,5 @@
 .number-container {
-    display: flex;
-}
-
-.number-content {
+    margin: 0 auto;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -24,7 +21,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    font: var(--text-preset-five);
+    font: var(--text-preset-five-desk);
     color: var(--gray);
 }
 

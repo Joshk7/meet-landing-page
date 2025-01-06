@@ -7,11 +7,9 @@ type NumberProps = {
 
 export const Number = ({ children }: NumberProps) => {
     return (
-        <div className="number-container">
-            <div className="number-content">
+            <div className="number-container">
                 <div className="vertical-line" />
                 <span className="circle">{children}</span>
             </div>
-        </div>
     );
 };

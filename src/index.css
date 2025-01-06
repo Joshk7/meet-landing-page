@@ -67,11 +67,21 @@ h6 {
     --gray: #87879d;
     --dark-gray: #28283d;
     --white: #fafafa;
-    --text-preset-one: 900 4rem/1.1 "Red Hat Display";
-    --text-preset-two: 900 2rem/1.1 "Red Hat Display";
-    --text-preset-three: 900 0.75rem/1.1 "Red Hat Display";
-    --text-preset-four: 500 1rem/1.5 "Red Hat Display";
-    --text-preset-five: 900 1rem/1.5 "Red Hat Display";
+    --text-preset-one-desk: 900 4rem/1.1 "Red Hat Display";
+    --text-preset-two-desk: 900 2.5rem/1.1 "Red Hat Display";
+    --text-preset-three-desk: 900 1rem/1.1 "Red Hat Display";
+    --text-preset-four-desk: 500 1.125rem/1.5 "Red Hat Display";
+    --text-preset-five-desk: 900 1rem/1.5 "Red Hat Display";
+
+    --text-preset-one-tab: 900 3rem/1.1 "Red Hat Display";
+    --text-preset-two-tab: 900 2.25rem/1.1 "Red Hat Display";
+    --text-preset-three-tab: 900 0.875rem/1.1 "Red Hat Display";
+    --text-preset-four-tab: 500 1rem/1.5 "Red Hat Display";
+
+    --text-preset-one-mob: 900 2.5rem/1.1 "Red Hat Display";
+    --text-preset-two-mob: 900 2rem/1.1 "Red Hat Display";
+    --text-preset-three-mob: 900 0.75rem/1.1 "Red Hat Display";
+
     --space-50: 0.25rem;
     --space-100: 0.5rem;
     --space-200: 1rem;
