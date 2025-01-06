@@ -182,7 +182,7 @@ nav {
     .hero__text--title {
         font: var(--text-preset-one-tab);
     }
-    
+
     .center {
         padding-top: var(--space-700);
     }
@@ -229,9 +229,7 @@ nav {
 
     .hero__container {
         display: grid;
-        grid-template-areas: 
-            "left text right"
-        ;
+        grid-template-areas: "left text right";
     }
 
     .hero__text--title {
@@ -249,7 +247,9 @@ nav {
     .center__container {
         max-width: 70rem;
     }
+}
 
+@media screen and (min-width: 1050px) {
     .footer__container {
         padding: var(--space-1400) var(--space-1000);
     }
@@ -283,6 +283,4 @@ nav {
         justify-content: flex-end;
         align-items: flex-start;
     }
-
-
 }
