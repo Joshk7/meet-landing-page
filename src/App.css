@@ -207,17 +207,20 @@ nav {
 
     .hero__left {
         grid-area: left;
-        display: block;
+        display: flex;
+        justify-content: flex-start;
+        align-items: flex-start;
         position: relative;
         left: calc(-1 * var(--space-800));
     }
 
     .hero__right {
         grid-area: right;
-        display: block;
+        display: flex;
+        justify-content: flex-end;
         position: relative;
         right: calc(-1 * var(--space-800));
-        align-self: flex-end;
+        align-items: flex-end;
     }
 
     .hero__text {

@@ -58,7 +58,7 @@ The main hero container the holds the h1 header for the website uses grid-areas 
 }
 ```
 
-The 'left' and 'right' areas are portioned out based on the remaining space that the main 'text' content takes up.
+The 'left' and 'right' areas are portioned out based on the remaining space that the main 'text' content takes up. I also had to use flex containers to set the left image in the top left of it's container and the right to the bottom right.
 
 ### Continued development
 
