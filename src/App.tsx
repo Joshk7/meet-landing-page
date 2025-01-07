@@ -115,9 +115,17 @@ const App = () => {
                 </div>
                 <div className="footer__container">
                     <picture className="footer__picture">
+                        <source
+                            srcSet="/assets/desktop/image-footer.jpg"
+                            media="(min-width: 56.25rem)"
+                        />
+                        <source
+                            srcSet="/assets/tablet/image-footer.jpg"
+                            media="(min-width: 31.25rem)"
+                        />
                         <img
                             className="footer__img"
-                            src="/assets/tablet/image-footer.jpg"
+                            src="/assets/mobile/image-footer.jpg"
                             alt="Woman on Laptop"
                         />
                     </picture>
