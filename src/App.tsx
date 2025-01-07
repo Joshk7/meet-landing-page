@@ -24,7 +24,7 @@ const App = () => {
                         alt="Banner"
                     />
                 </picture>
-                <div className="hero__container">
+                <article className="hero__container">
                     <picture className="hero__left">
                         <img
                             className="hero__left--img"
@@ -56,7 +56,7 @@ const App = () => {
                             alt="Banner Right"
                         />
                     </picture>
-                </div>
+                </article>
             </section>
             <main className="center">
                 <div className="center__container">
