@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 -   Solution URL: [Solution URL](https://github.com/Joshk7/meet-landing-page)
--   Live Site URL: [Live Site URl](https://meet-landing-page-ivory-theta.vercel.app/)
+-   Live Site URL: [Live Site URL](https://meet-landing-page-ivory-theta.vercel.app/)
 
 ## My process
 
